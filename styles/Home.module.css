@@ -90,3 +90,8 @@
     flex-direction: column;
   }
 }
+
+.error{
+  background-image: "/images/error404.jpg";
+  color: aqua;
+}
